@@ -1,9 +1,10 @@
 Note Taker
 
-![Image](//insert here//)
+![Image](http://github.com/nivaniuhttps://vigilant-computing-machine.herokuapp.com/notesc/vigilant-computing-machine/blob/main/public/assets/images/screenshot.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Install](#install)
 - [Live Application](#application)
 - [License](#license)
 - [Support](#support)
@@ -11,9 +12,20 @@ Note Taker
 ## Introduction
 This is an note taker app to help you keep notes.
 
+## Install
+
+npm init
+
+npm install node
+
+npm install express
+
+heroku create
+
+
 ## Application
 
-[Live Application](//insert heroku here//)
+[Live Application](https://vigilant-computing-machine.herokuapp.com/notes)
 
 
 ## License
