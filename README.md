@@ -25,7 +25,7 @@ heroku create
 
 ## Application
 
-[Live Application](https://vigilant-computing-machine.herokuapp.com/notes)
+[Live Application](https://vigilant-computing-machine.herokuapp.com/)
 
 
 ## License
