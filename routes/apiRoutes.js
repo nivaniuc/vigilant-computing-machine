@@ -11,6 +11,7 @@ router.post("/notes", (req, res) => {
   res.json(req.body);
 });
 
+//This deletes any notes created
 router.delete("/notes/:id", (req, res) => {
   const id = req.params.id;
   for (var i = 0; i < notes.length; i++) {

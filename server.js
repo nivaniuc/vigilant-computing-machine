@@ -1,16 +1,16 @@
+//These are the global variables
 const htmlRoutes = require("./routes/htmlRoutes");
-
 const express = require("express");
 const app = express();
-
 const { notes } = require("./db/db");
-
 const PORT = process.env.PORT || 3000;
+
+//And these are the app uses
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 app.use("/", htmlRoutes);
-
+//There is a little redundancy but its not breaking anything!
 app.get("/notes", function (req, res) {
   res.sendFile(path.join(__dirname, "./public/notes.html"));
 });
