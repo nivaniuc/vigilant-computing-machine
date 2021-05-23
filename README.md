@@ -1,6 +1,6 @@
 Note Taker
 
-![Image](http://github.com/nivaniuhttps://vigilant-computing-machine.herokuapp.com/notesc/vigilant-computing-machine/blob/main/public/assets/images/screenshot.jpg)
+![Application Image](https://github.com/nivaniuc/vigilant-computing-machine/blob/main/public/assets/images/screenshot.jpg?raw=true)
 
 ## Table of Contents
 - [Introduction](#introduction)
